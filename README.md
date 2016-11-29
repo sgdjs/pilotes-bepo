@@ -13,8 +13,8 @@ The Optimo layout is the same than the bepo with the following changes:
 * Direct or improved access to developer’s characters: <, >, \_,
   no shift insecable space
 
-# [Optimo](optimo): optimized layout for Orthogonal keyboards
-# [Optima](optima): optimized layout with A fingers position, for staggered ISO keyboards
+## [Optimo](optimo): optimized layout for Orthogonal keyboards
+## [Optima](optima): optimized layout with A fingers position, for staggered ISO keyboards
 
 The bepo.fr branch is set to track https://git.tuxfamily.org/dvorak/pilotes.git
 
